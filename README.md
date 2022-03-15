@@ -1,4 +1,5 @@
 # DataScience2022
+
 <div style="text-align: right;">
 産業技術大学院大学</br>
 担当: 岩政、大久保</br>
