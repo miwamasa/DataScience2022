@@ -1,6 +1,6 @@
 # DataScience2022
 
-<div style="text-align: right;">
+<div dir='rtl'>
 産業技術大学院大学</br>
 担当: 岩政、大久保</br>
 2022年4月6日～6月2日
