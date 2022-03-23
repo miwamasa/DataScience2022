@@ -38,7 +38,7 @@
 
 |講義|日程|内容|Colabへのリンク|スライド|
 |---|---|---|---|---|
-|Lecture1|4/6(水) |はじめに||[lecture1.pdf]()|
+|Lecture1|4/6(水) |はじめに||[lecture1.pdf](https://github.com/miwamasa/DataScience2022/blob/main/tmp/lec1slides.pdf)|
 |||Colaboratryのテスト| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1.ipynb)|
 |||Pythonの基本| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1_pythonbasics.ipynb)|
 |Lecture2|4/9(土)|データの取得と操作| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture2.ipynb)|
