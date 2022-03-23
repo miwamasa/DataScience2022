@@ -36,6 +36,8 @@
 
 この講義では、計算機実習を Google Colaboratory を使って行います
 
+- 講義スライドは manabaで提供します。
+
 |講義|日程|内容|Colabへのリンク|スライド|
 |---|---|---|---|---|
 |Lecture1|4/6(水) |はじめに||[lecture1.pdf](https://github.com/miwamasa/DataScience2022/raw/main/tmp/lec1slides.pdf)|
