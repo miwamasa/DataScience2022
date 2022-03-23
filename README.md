@@ -36,9 +36,10 @@
 
 この講義では、計算機実習を Google Colaboratory を使って行います
 
-|講義|日程|内容|Colabへのリンク|
-|---|---|---|---|
-|Lecture1|4/6(水) |Colaboratryのテスト| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1.ipynb)|
+|講義|日程|内容|Colabへのリンク|スライド|
+|---|---|---|---|---|
+|Lecture1|4/6(水) |はじめに||[lecture1.pdf]()|
+|||Colaboratryのテスト| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1.ipynb)|
 |||Pythonの基本| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1_pythonbasics.ipynb)|
 |Lecture2|4/9(土)|データの取得と操作| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture2.ipynb)|
 |||pandasの利用| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture2_pandas.ipynb)|
