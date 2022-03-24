@@ -39,9 +39,9 @@
 - 講義スライドは manabaで提供します。
 - 参考図書：[データサイエンス教本、橋本・牧野](https://www.ohmsha.co.jp/book/9784274222900/)
 
-|講義|日程|内容|Colabへのリンク|スライド|
-|---|---|---|---|---|
-|Lecture1|4/6(水) |はじめに||[lecture1.pdf](https://github.com/miwamasa/DataScience2022/raw/main/tmp/lec1slides.pdf)|
+|講義|日程|内容|Colabへのリンク|
+|---|---|---|---|
+|Lecture1|4/6(水) |はじめに||
 |||Colaboratryのテスト| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1.ipynb)|
 |||Pythonの基本| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1_pythonbasics.ipynb)|
 |Lecture2|4/9(土)|データの取得と操作| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture2.ipynb)|
