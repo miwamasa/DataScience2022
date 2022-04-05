@@ -33,8 +33,8 @@
 |講義|日程|内容|Colabへのリンク|status|
 |---|---|---|---|---|
 |Lecture1|4/6(水) |はじめに||
-|||Colaboratryのテスト| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1.ipynb)|ok|
-|||Pythonの基本| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1_pythonbasics.ipynb)|ok|
+|||Colaboratryのテスト| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1.ipynb){:target="_blank"}|ok|
+|||Pythonの基本| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture1_pythonbasics.ipynb){:target="_blank"}|ok|
 |Lecture2|4/9(土)|データの取得と操作| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture2.ipynb)|in_progress|
 |||pandasの利用| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture2_pandas.ipynb)|in_progress|
 |||実習| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture2_practice.ipynb)|in_progress|
