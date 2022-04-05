@@ -23,10 +23,10 @@
   - 中間レポート３回
   - 最終レポート
 
-## 講義日程 
+## 講義日程と実習用の jupyter notebook
 
-この講義では、計算機実習を Google Colaboratory を使って行います
-
+この講義では、計算機実習を Google Colaboratory を使って行います![](https://colab.research.google.com/assets/colab-badge.svg)ボタンを押すとColaboratoryの画面に遷移します。このページを残したい場合は、右クリックで「新しいタブで開く」と新しいタブで開くこともできます。
+- 
 - 講義スライドは manabaで提供します。
 - 参考図書：[データサイエンス教本、橋本・牧野](https://www.ohmsha.co.jp/book/9784274222900/)
 
