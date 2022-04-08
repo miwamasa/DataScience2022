@@ -42,7 +42,7 @@
 |Lecture2|4/9(土)|データの取得と操作| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture2.ipynb)|ok|
 |||pandasの利用| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture2_pandas.ipynb)|ok|
 |||実習| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture2_practice.ipynb)|ok|
-|Lecture3|4/13(水)|データの可視化| |in_progress|
+|Lecture3|4/13(水)|データの可視化| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture3_matplotlib.ipynb) |in_progress|
 |Lecture4|4/16(土)|統計分布の基礎 ||in_progress|
 |Lecture5|4/20(水)|回帰分析1||in_progress|
 |||重回帰分析||in_progress|
