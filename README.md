@@ -44,6 +44,7 @@
 |||実習| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture2_practice.ipynb)|ok|
 |Lecture3|4/13(水)|データの可視化| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture3_matplotlib.ipynb) |ok|
 |||実習(1.棒グラフ)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture3_extra_1.ipynb) |ok|
+|||Extra(アンケート結果)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/aiit_query_process.ipynb) |ok|
 |Lecture4|4/16(土)|統計分布の基礎 ||in_progress|
 |Lecture5|4/20(水)|回帰分析1||in_progress|
 |||重回帰分析||in_progress|
