@@ -50,10 +50,11 @@
 |||事例(Game)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture5_games.ipynb)|ok|
 |Lecture6|4/23(土)|回帰分析2|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture6.ipynb)|in_progress|
 |||重回帰分析（変数選択）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture6_AIC.ipynb)|in_progress|
-|||重回帰分析（交絡因子）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture6_multiple_regression.ipynb)|in_progress|
-|||重回帰分析（ダミー変数）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture6_multi_reg_category.ipynb)|in_progress|
-|Lecture7|4/27(水)|パターン認識1||in_progress|
-|||SVM||in_progress|
+|||重回帰分析（交絡因子）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture6_multiple_regression.ipynb)|ok|
+|||重回帰分析（ダミー変数）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture6_multi_reg_category.ipynb)|ok|
+|Lecture7|4/27(水)|パターン認識1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture7.ipynb)|in_progress|
+|||SVMの例|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture7_SVM.ipynb)|in_progress|
+|||SVMを最適化で解く|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture7_svm_optimize.ipynb)|in_progress|
 |Lecture8|4/30(土)|パターン認識2||in_progress|
 |Lecture9|5/7(水)|動的システムの表現|
 |Lecture10|5/11(土)|時系列|
