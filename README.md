@@ -56,6 +56,8 @@
 |||SVMの例|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture7_SVM.ipynb)|in_progress|
 |||SVMを最適化で解く|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture7_svm_optimize.ipynb)|in_progress|
 |Lecture8|4/30(土)|パターン認識2||in_progress|
+|||クラス分類|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture8_classification.ipynb)|in_progress|
+|||クラスタリング|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture8_clustering.ipynb)|in_progress|
 |Lecture9|5/7(水)|動的システムの表現|
 |Lecture10|5/11(土)|時系列|
 |Lecture11|5/14(水)|周波数分析|
