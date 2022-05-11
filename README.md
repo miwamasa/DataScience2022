@@ -58,8 +58,8 @@
 |Lecture8|4/30(土)|パターン認識2||ok|
 |||クラス分類|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture8_classification.ipynb)|ok|
 |||クラスタリング|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture8_clustering.ipynb)|ok|
-|Lecture9|5/7(水)|動的システムの表現|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture9.ipynb)|in_progress|
-|Lecture10|5/11(土)|時系列|
+|Lecture9|5/7(水)|動的システムの表現|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture9.ipynb)|ok|
+|Lecture10|5/11(土)|時系列|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture10.ipynb)|in progress|
 |Lecture11|5/14(水)|周波数分析|
 |Lecture12|5/18(土)|画像分析|
 |Lecture13|5/21(水)|メディア情報処理（大久保先生）|
