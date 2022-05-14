@@ -60,7 +60,8 @@
 |||クラスタリング|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture8_clustering.ipynb)|ok|
 |Lecture9|5/7(水)|動的システムの表現|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture9.ipynb)|ok|
 |Lecture10|5/11(土)|時系列|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture10.ipynb)|in progress|
-|Lecture11|5/14(水)|周波数分析|
+|Lecture11|5/14(水)|状態空間モデル|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture11.ipynb)|in progress|
+|||周波数分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture11_frequency.ipynb)|in progress|
 |Lecture12|5/18(土)|画像分析|
 |Lecture13|5/21(水)|メディア情報処理（大久保先生）|
 |Lecture14|5/25(土)|位置情報処理（大久保先生）|
