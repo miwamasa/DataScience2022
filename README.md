@@ -63,7 +63,6 @@
 |Lecture11|5/14(水)|状態空間モデル|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture11.ipynb)|ok|
 |||周波数分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture11_frequency.ipynb)|ok|
 |Lecture12|5/18(土)|画像分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture12.ipynb)|ok|
-|Lecture12|5/18(土)|画像分析|
 |Lecture13|5/21(水)|メディア情報処理（大久保先生）|
 |Lecture14|5/25(土)|位置情報処理（大久保先生）|
 |Lecture15|5/28(水)|センサデータ処理（大久保先生）|
